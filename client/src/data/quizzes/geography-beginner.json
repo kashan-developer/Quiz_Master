@@ -1,0 +1,80 @@
+{
+  "id": "geography-beginner",
+  "title": "Geography Challenge - Beginner",
+  "category": "geography",
+  "difficulty": "beginner",
+  "timeLimit": 15,
+  "description": "Basic world geography - countries, capitals, and landmarks",
+  "questions": [
+    {
+      "id": "geo-beg-1",
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": 2,
+      "explanation": "Paris is the capital and largest city of France."
+    },
+    {
+      "id": "geo-beg-2",
+      "question": "Which continent is Egypt located in?",
+      "options": ["Asia", "Africa", "Europe", "South America"],
+      "correctAnswer": 1,
+      "explanation": "Egypt is located in northeastern Africa."
+    },
+    {
+      "id": "geo-beg-3",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": 3,
+      "explanation": "The Pacific Ocean is the largest ocean, covering about one-third of Earth's surface."
+    },
+    {
+      "id": "geo-beg-4",
+      "question": "Which country is famous for the Great Wall?",
+      "options": ["Japan", "China", "India", "Thailand"],
+      "correctAnswer": 1,
+      "explanation": "The Great Wall of China is one of the most famous landmarks in the world."
+    },
+    {
+      "id": "geo-beg-5",
+      "question": "How many continents are there?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 2,
+      "explanation": "There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+    },
+    {
+      "id": "geo-beg-6",
+      "question": "Which river is the longest in the world?",
+      "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+      "correctAnswer": 1,
+      "explanation": "The Nile River is generally considered the longest river in the world at about 6,650 km."
+    },
+    {
+      "id": "geo-beg-7",
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctAnswer": 1,
+      "explanation": "Vatican City is the smallest country in the world by both area and population."
+    },
+    {
+      "id": "geo-beg-8",
+      "question": "Which mountain range contains Mount Everest?",
+      "options": ["Rocky Mountains", "Andes", "Himalayas", "Alps"],
+      "correctAnswer": 2,
+      "explanation": "Mount Everest is located in the Himalayas on the border between Nepal and Tibet."
+    },
+    {
+      "id": "geo-beg-9",
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correctAnswer": 2,
+      "explanation": "Canberra is the capital of Australia, located between Sydney and Melbourne."
+    },
+    {
+      "id": "geo-beg-10",
+      "question": "Which desert is the largest in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Mojave Desert", "Antarctica"],
+      "correctAnswer": 3,
+      "explanation": "Antarctica is technically the largest desert in the world, being a cold desert."
+    }
+  ]
+}

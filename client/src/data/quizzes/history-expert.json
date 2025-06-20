@@ -1,0 +1,90 @@
+{
+  "id": "history-expert",
+  "title": "World History - Expert",
+  "category": "history",
+  "difficulty": "expert",
+  "timeLimit": 25,
+  "description": "Advanced world history covering complex historical analysis and specialized knowledge",
+  "questions": [
+    {
+      "id": "hist-exp-1",
+      "question": "Which historiographical concept describes the study of how historical writing has changed over time?",
+      "options": ["Historicism", "Historiography", "Historical materialism", "Chronology"],
+      "correctAnswer": 1,
+      "explanation": "Historiography is the study of historical writing and how interpretations of the past have evolved."
+    },
+    {
+      "id": "hist-exp-2",
+      "question": "The concept of 'Westphalian sovereignty' originated from which 1648 treaty?",
+      "options": ["Treaty of Münster", "Peace of Westphalia", "Treaty of Osnabrück", "All of the above"],
+      "correctAnswer": 3,
+      "explanation": "The Peace of Westphalia (1648) included multiple treaties that established the principle of state sovereignty."
+    },
+    {
+      "id": "hist-exp-3",
+      "question": "Which economic theory influenced the policies that led to the Great Depression?",
+      "options": ["Keynesian economics", "Laissez-faire capitalism", "Mercantilism", "Socialism"],
+      "correctAnswer": 1,
+      "explanation": "Laissez-faire economic policies and lack of government intervention contributed to the Great Depression."
+    },
+    {
+      "id": "hist-exp-4",
+      "question": "The Sykes-Picot Agreement of 1916 primarily concerned the division of which empire?",
+      "options": ["Austrian Empire", "Russian Empire", "Ottoman Empire", "German Empire"],
+      "correctAnswer": 2,
+      "explanation": "The Sykes-Picot Agreement was a secret plan to divide Ottoman territories between Britain and France."
+    },
+    {
+      "id": "hist-exp-5",
+      "question": "Which philosophical movement heavily influenced the Enlightenment concept of natural rights?",
+      "options": ["Scholasticism", "Natural law theory", "Empiricism", "Rationalism"],
+      "correctAnswer": 1,
+      "explanation": "Natural law theory, particularly from thinkers like John Locke, influenced Enlightenment ideas about natural rights."
+    },
+    {
+      "id": "hist-exp-6",
+      "question": "The Congress of Vienna (1815) was primarily aimed at:",
+      "options": [
+        "Establishing democratic governments",
+        "Restoring the balance of power in Europe",
+        "Creating the German Confederation",
+        "Abolishing slavery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Congress of Vienna sought to restore stability and balance of power in Europe after Napoleon's defeat."
+    },
+    {
+      "id": "hist-exp-7",
+      "question": "Which historian is associated with the 'Annales School' of historiography?",
+      "options": ["Leopold von Ranke", "Marc Bloch", "Edward Gibbon", "Thomas Carlyle"],
+      "correctAnswer": 1,
+      "explanation": "Marc Bloch co-founded the Annales School, which emphasized social and economic history over political events."
+    },
+    {
+      "id": "hist-exp-8",
+      "question": "The 'Eastern Question' in 19th-century European diplomacy referred to:",
+      "options": [
+        "Russian expansion into Asia",
+        "The decline of the Ottoman Empire",
+        "Chinese isolationism",
+        "Japanese modernization"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 'Eastern Question' concerned how European powers would deal with the declining Ottoman Empire."
+    },
+    {
+      "id": "hist-exp-9",
+      "question": "Which factor was most crucial in the success of the Mongol conquests?",
+      "options": ["Superior numbers", "Advanced weaponry", "Military organization and mobility", "Religious unity"],
+      "correctAnswer": 2,
+      "explanation": "The Mongols' superior military organization, tactics, and mobility were key to their unprecedented conquests."
+    },
+    {
+      "id": "hist-exp-10",
+      "question": "The concept of 'total war' was first fully implemented during which conflict?",
+      "options": ["Napoleonic Wars", "American Civil War", "World War I", "World War II"],
+      "correctAnswer": 2,
+      "explanation": "World War I was the first conflict to fully implement total war, mobilizing entire societies for the war effort."
+    }
+  ]
+}

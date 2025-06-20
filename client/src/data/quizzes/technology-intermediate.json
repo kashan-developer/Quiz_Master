@@ -1,0 +1,80 @@
+{
+  "id": "technology-intermediate",
+  "title": "Technology & IT - Intermediate",
+  "category": "technology",
+  "difficulty": "intermediate",
+  "timeLimit": 20,
+  "description": "Intermediate technology concepts including networking, programming, and system administration",
+  "questions": [
+    {
+      "id": "tech-int-1",
+      "question": "What does 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "High Technology Transfer Protocol", "HyperText Translation Protocol", "High Transfer Technology Protocol"],
+      "correctAnswer": 0,
+      "explanation": "HTTP stands for HyperText Transfer Protocol, which is used for transferring web pages."
+    },
+    {
+      "id": "tech-int-2",
+      "question": "Which programming language is known for 'write once, run anywhere'?",
+      "options": ["Python", "Java", "C++", "JavaScript"],
+      "correctAnswer": 1,
+      "explanation": "Java is known for its 'write once, run anywhere' philosophy due to its platform independence."
+    },
+    {
+      "id": "tech-int-3",
+      "question": "What does 'SQL' stand for?",
+      "options": ["Structured Query Language", "Standard Query Language", "System Query Language", "Simple Query Language"],
+      "correctAnswer": 0,
+      "explanation": "SQL stands for Structured Query Language, used for managing databases."
+    },
+    {
+      "id": "tech-int-4",
+      "question": "What is the default port number for HTTPS?",
+      "options": ["80", "443", "21", "25"],
+      "correctAnswer": 1,
+      "explanation": "HTTPS uses port 443 by default for secure web communication."
+    },
+    {
+      "id": "tech-int-5",
+      "question": "What is version control used for?",
+      "options": ["Managing software versions", "Controlling computer speed", "Managing user accounts", "Controlling network access"],
+      "correctAnswer": 0,
+      "explanation": "Version control systems track changes to code and manage different versions of software."
+    },
+    {
+      "id": "tech-int-6",
+      "question": "What does 'API' stand for?",
+      "options": ["Application Programming Interface", "Advanced Programming Interface", "Application Process Interface", "Advanced Process Interface"],
+      "correctAnswer": 0,
+      "explanation": "API stands for Application Programming Interface, which allows different software to communicate."
+    },
+    {
+      "id": "tech-int-7",
+      "question": "Which data structure follows the 'Last In, First Out' principle?",
+      "options": ["Queue", "Stack", "Array", "Linked List"],
+      "correctAnswer": 1,
+      "explanation": "A stack follows the LIFO (Last In, First Out) principle."
+    },
+    {
+      "id": "tech-int-8",
+      "question": "What is the purpose of DNS?",
+      "options": ["Encrypt data", "Translate domain names to IP addresses", "Store files", "Manage databases"],
+      "correctAnswer": 1,
+      "explanation": "DNS (Domain Name System) translates human-readable domain names into IP addresses."
+    },
+    {
+      "id": "tech-int-9",
+      "question": "What is object-oriented programming (OOP)?",
+      "options": ["Programming with objects and classes", "Programming for objects only", "Programming without functions", "Programming with databases"],
+      "correctAnswer": 0,
+      "explanation": "OOP is a programming paradigm based on objects and classes that encapsulate data and behavior."
+    },
+    {
+      "id": "tech-int-10",
+      "question": "What does 'CSS' stand for?",
+      "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Custom Style Sheets"],
+      "correctAnswer": 1,
+      "explanation": "CSS stands for Cascading Style Sheets, used for styling web pages."
+    }
+  ]
+}

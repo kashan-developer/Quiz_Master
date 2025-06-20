@@ -1,0 +1,95 @@
+{
+  "id": "science-expert",
+  "title": "Science & Nature - Expert",
+  "category": "science",
+  "difficulty": "expert",
+  "timeLimit": 25,
+  "description": "Advanced scientific concepts and cutting-edge research",
+  "questions": [
+    {
+      "id": "sci-exp-1",
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "options": [
+        "Energy and time cannot be measured simultaneously",
+        "Position and momentum cannot be precisely determined simultaneously",
+        "Mass and velocity are inversely proportional",
+        "Light behaves as both wave and particle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Heisenberg Uncertainty Principle states that position and momentum cannot be simultaneously measured with perfect precision."
+    },
+    {
+      "id": "sci-exp-2",
+      "question": "Which enzyme is responsible for unwinding DNA during replication?",
+      "options": ["DNA polymerase", "Helicase", "Ligase", "Primase"],
+      "correctAnswer": 1,
+      "explanation": "Helicase is the enzyme that unwinds the double helix structure of DNA during replication."
+    },
+    {
+      "id": "sci-exp-3",
+      "question": "What is the molecular geometry of methane (CH4)?",
+      "options": ["Linear", "Trigonal planar", "Tetrahedral", "Octahedral"],
+      "correctAnswer": 2,
+      "explanation": "Methane has a tetrahedral molecular geometry with bond angles of 109.5°."
+    },
+    {
+      "id": "sci-exp-4",
+      "question": "Which particle is responsible for the weak nuclear force?",
+      "options": ["Photon", "Gluon", "W and Z bosons", "Higgs boson"],
+      "correctAnswer": 2,
+      "explanation": "W and Z bosons are the force carrier particles for the weak nuclear force."
+    },
+    {
+      "id": "sci-exp-5",
+      "question": "What is the primary function of telomeres?",
+      "options": [
+        "DNA repair",
+        "Protecting chromosome ends",
+        "Protein synthesis",
+        "Cell division regulation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Telomeres protect the ends of chromosomes from degradation and fusion with other chromosomes."
+    },
+    {
+      "id": "sci-exp-6",
+      "question": "Which phenomenon explains why time passes slower in strong gravitational fields?",
+      "options": ["Doppler effect", "Gravitational time dilation", "Redshift", "Frame dragging"],
+      "correctAnswer": 1,
+      "explanation": "Gravitational time dilation, predicted by Einstein's relativity, causes time to pass slower in stronger gravitational fields."
+    },
+    {
+      "id": "sci-exp-7",
+      "question": "What is the primary mechanism of antibiotic resistance in bacteria?",
+      "options": [
+        "Mutation only",
+        "Horizontal gene transfer",
+        "Selective pressure",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Antibiotic resistance develops through mutations, horizontal gene transfer, and selective pressure working together."
+    },
+    {
+      "id": "sci-exp-8",
+      "question": "Which type of supernova involves the collapse of a massive star?",
+      "options": ["Type Ia", "Type Ib", "Type Ic", "Type II"],
+      "correctAnswer": 3,
+      "explanation": "Type II supernovae result from the core collapse of massive stars that have exhausted their nuclear fuel."
+    },
+    {
+      "id": "sci-exp-9",
+      "question": "What is CRISPR-Cas9 primarily used for?",
+      "options": ["DNA sequencing", "Gene editing", "Protein folding", "Cell culture"],
+      "correctAnswer": 1,
+      "explanation": "CRISPR-Cas9 is a revolutionary gene editing tool that allows precise modification of DNA sequences."
+    },
+    {
+      "id": "sci-exp-10",
+      "question": "Which quantum mechanical effect allows particles to tunnel through energy barriers?",
+      "options": ["Wave-particle duality", "Quantum tunneling", "Quantum entanglement", "Superposition"],
+      "correctAnswer": 1,
+      "explanation": "Quantum tunneling allows particles to pass through energy barriers that would be impossible to cross classically."
+    }
+  ]
+}

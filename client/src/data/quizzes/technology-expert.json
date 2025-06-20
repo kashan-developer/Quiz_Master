@@ -1,0 +1,115 @@
+{
+  "id": "technology-expert",
+  "title": "Technology & IT - Expert",
+  "category": "technology",
+  "difficulty": "expert",
+  "timeLimit": 25,
+  "description": "Advanced technology concepts including system architecture, security, and emerging technologies",
+  "questions": [
+    {
+      "id": "tech-exp-1",
+      "question": "What is the CAP theorem in distributed systems?",
+      "options": [
+        "Consistency, Availability, Partition tolerance",
+        "Capacity, Availability, Performance",
+        "Consistency, Accuracy, Persistence",
+        "Capacity, Accuracy, Partition tolerance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The CAP theorem states that distributed systems can only guarantee two of: Consistency, Availability, and Partition tolerance."
+    },
+    {
+      "id": "tech-exp-2",
+      "question": "Which algorithm is commonly used in blockchain for proof-of-work?",
+      "options": ["AES", "RSA", "SHA-256", "Elliptic Curve"],
+      "correctAnswer": 2,
+      "explanation": "SHA-256 is the cryptographic hash function used in Bitcoin's proof-of-work algorithm."
+    },
+    {
+      "id": "tech-exp-3",
+      "question": "What is the time complexity of QuickSort in the average case?",
+      "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+      "correctAnswer": 1,
+      "explanation": "QuickSort has an average time complexity of O(n log n)."
+    },
+    {
+      "id": "tech-exp-4",
+      "question": "In microservices architecture, what is service discovery?",
+      "options": [
+        "Finding bugs in services",
+        "Locating and connecting to available services",
+        "Discovering new technologies",
+        "Finding service documentation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Service discovery is the mechanism for locating and connecting to available services in a distributed system."
+    },
+    {
+      "id": "tech-exp-5",
+      "question": "What is the purpose of a container orchestration platform like Kubernetes?",
+      "options": [
+        "Compile code",
+        "Manage and scale containerized applications",
+        "Write documentation",
+        "Test applications"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kubernetes orchestrates containers by managing deployment, scaling, and operations of containerized applications."
+    },
+    {
+      "id": "tech-exp-6",
+      "question": "What is eventual consistency in distributed databases?",
+      "options": [
+        "Data is always consistent",
+        "Data becomes consistent over time",
+        "Data is never consistent",
+        "Data consistency is optional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eventual consistency means that the system will become consistent over time, without guaranteeing immediate consistency."
+    },
+    {
+      "id": "tech-exp-7",
+      "question": "Which design pattern is used to create objects without specifying their exact class?",
+      "options": ["Singleton", "Factory", "Observer", "Strategy"],
+      "correctAnswer": 1,
+      "explanation": "The Factory pattern creates objects without specifying their exact classes, promoting loose coupling."
+    },
+    {
+      "id": "tech-exp-8",
+      "question": "What is the difference between authentication and authorization?",
+      "options": [
+        "They are the same thing",
+        "Authentication verifies identity, authorization grants permissions",
+        "Authorization verifies identity, authentication grants permissions",
+        "Both verify identity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Authentication verifies who you are, while authorization determines what you can access."
+    },
+    {
+      "id": "tech-exp-9",
+      "question": "What is the Byzantine Generals Problem in distributed computing?",
+      "options": [
+        "A military strategy problem",
+        "Achieving consensus with potentially faulty nodes",
+        "A network routing problem",
+        "A database synchronization issue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Byzantine Generals Problem addresses achieving consensus in distributed systems where some nodes may be faulty or malicious."
+    },
+    {
+      "id": "tech-exp-10",
+      "question": "What is the primary benefit of using a CDN (Content Delivery Network)?",
+      "options": [
+        "Reduce server costs",
+        "Improve content loading speed and availability",
+        "Increase security",
+        "Simplify development"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CDNs improve content loading speed by distributing content to servers closer to users and increase availability through redundancy."
+    }
+  ]
+}

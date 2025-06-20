@@ -1,0 +1,80 @@
+{
+  "id": "geography-intermediate",
+  "title": "Geography Challenge - Intermediate",
+  "category": "geography",
+  "difficulty": "intermediate",
+  "timeLimit": 20,
+  "description": "Intermediate geography covering physical features, climate, and regions",
+  "questions": [
+    {
+      "id": "geo-int-1",
+      "question": "Which strait separates Europe and Asia at their closest point?",
+      "options": ["Strait of Gibraltar", "Bosphorus Strait", "Strait of Hormuz", "Bering Strait"],
+      "correctAnswer": 1,
+      "explanation": "The Bosphorus Strait in Turkey separates Europe and Asia at Istanbul."
+    },
+    {
+      "id": "geo-int-2",
+      "question": "What type of climate is characterized by hot, dry summers and mild, wet winters?",
+      "options": ["Tropical", "Mediterranean", "Continental", "Polar"],
+      "correctAnswer": 1,
+      "explanation": "Mediterranean climate is characterized by dry summers and mild, wet winters."
+    },
+    {
+      "id": "geo-int-3",
+      "question": "Which African country has three capital cities?",
+      "options": ["Nigeria", "South Africa", "Kenya", "Morocco"],
+      "correctAnswer": 1,
+      "explanation": "South Africa has three capitals: Cape Town (legislative), Pretoria (executive), and Bloemfontein (judicial)."
+    },
+    {
+      "id": "geo-int-4",
+      "question": "The Ring of Fire is associated with which geological feature?",
+      "options": ["Mountain ranges", "Volcanoes and earthquakes", "Desert formation", "Ocean currents"],
+      "correctAnswer": 1,
+      "explanation": "The Ring of Fire is a region around the Pacific Ocean known for volcanic activity and earthquakes."
+    },
+    {
+      "id": "geo-int-5",
+      "question": "Which South American country does NOT border the Pacific Ocean?",
+      "options": ["Chile", "Peru", "Uruguay", "Ecuador"],
+      "correctAnswer": 2,
+      "explanation": "Uruguay is located on the Atlantic coast of South America, not the Pacific."
+    },
+    {
+      "id": "geo-int-6",
+      "question": "What is the term for a narrow strip of land connecting two larger land areas?",
+      "options": ["Peninsula", "Isthmus", "Archipelago", "Fjord"],
+      "correctAnswer": 1,
+      "explanation": "An isthmus is a narrow strip of land connecting two larger areas, like the Isthmus of Panama."
+    },
+    {
+      "id": "geo-int-7",
+      "question": "Which country has the most time zones?",
+      "options": ["Russia", "United States", "China", "France"],
+      "correctAnswer": 3,
+      "explanation": "France has 12 time zones due to its overseas territories, more than any other country."
+    },
+    {
+      "id": "geo-int-8",
+      "question": "The Tropic of Capricorn passes through which of these countries?",
+      "options": ["Mexico", "India", "Australia", "Egypt"],
+      "correctAnswer": 2,
+      "explanation": "The Tropic of Capricorn passes through Australia, along with several other southern hemisphere countries."
+    },
+    {
+      "id": "geo-int-9",
+      "question": "Which sea is the saltiest body of water on Earth?",
+      "options": ["Dead Sea", "Red Sea", "Caspian Sea", "Aral Sea"],
+      "correctAnswer": 0,
+      "explanation": "The Dead Sea has a salinity of about 34%, making it one of the saltiest bodies of water."
+    },
+    {
+      "id": "geo-int-10",
+      "question": "What causes the monsoon climate pattern?",
+      "options": ["Ocean temperatures", "Seasonal wind patterns", "Mountain barriers", "Desert proximity"],
+      "correctAnswer": 1,
+      "explanation": "Monsoons are caused by seasonal reversals in wind direction due to temperature differences."
+    }
+  ]
+}

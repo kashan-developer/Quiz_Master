@@ -1,0 +1,80 @@
+{
+  "id": "technology-beginner",
+  "title": "Technology & IT - Beginner",
+  "category": "technology",
+  "difficulty": "beginner",
+  "timeLimit": 15,
+  "description": "Basic computer and technology concepts for beginners",
+  "questions": [
+    {
+      "id": "tech-beg-1",
+      "question": "What does 'CPU' stand for?",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Computer Processing Unit"],
+      "correctAnswer": 0,
+      "explanation": "CPU stands for Central Processing Unit, which is the main processor of a computer."
+    },
+    {
+      "id": "tech-beg-2",
+      "question": "What is the main function of RAM in a computer?",
+      "options": ["Store files permanently", "Provide temporary storage", "Connect to the internet", "Display graphics"],
+      "correctAnswer": 1,
+      "explanation": "RAM (Random Access Memory) provides temporary storage for data and programs currently in use."
+    },
+    {
+      "id": "tech-beg-3",
+      "question": "Which of these is an operating system?",
+      "options": ["Microsoft Word", "Google Chrome", "Windows 10", "Adobe Photoshop"],
+      "correctAnswer": 2,
+      "explanation": "Windows 10 is an operating system that manages computer hardware and software resources."
+    },
+    {
+      "id": "tech-beg-4",
+      "question": "What does 'URL' stand for?",
+      "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Locator"],
+      "correctAnswer": 1,
+      "explanation": "URL stands for Uniform Resource Locator, which is the address of a webpage."
+    },
+    {
+      "id": "tech-beg-5",
+      "question": "Which key combination is commonly used to copy text?",
+      "options": ["Ctrl + X", "Ctrl + C", "Ctrl + V", "Ctrl + Z"],
+      "correctAnswer": 1,
+      "explanation": "Ctrl + C is the standard keyboard shortcut for copying text or files."
+    },
+    {
+      "id": "tech-beg-6",
+      "question": "What is a browser?",
+      "options": ["A type of virus", "Software to access websites", "A computer component", "An email program"],
+      "correctAnswer": 1,
+      "explanation": "A browser is software that allows you to access and view websites on the internet."
+    },
+    {
+      "id": "tech-beg-7",
+      "question": "What does 'Wi-Fi' allow you to do?",
+      "options": ["Print documents", "Connect to the internet wirelessly", "Store files", "Edit photos"],
+      "correctAnswer": 1,
+      "explanation": "Wi-Fi allows devices to connect to the internet without using cables."
+    },
+    {
+      "id": "tech-beg-8",
+      "question": "What is malware?",
+      "options": ["Good software", "Harmful software", "Free software", "System software"],
+      "correctAnswer": 1,
+      "explanation": "Malware is malicious software designed to harm or exploit computer systems."
+    },
+    {
+      "id": "tech-beg-9",
+      "question": "What does 'GB' stand for in computer storage?",
+      "options": ["Great Byte", "Gigabyte", "General Byte", "Global Byte"],
+      "correctAnswer": 1,
+      "explanation": "GB stands for Gigabyte, a unit of digital storage equal to approximately 1 billion bytes."
+    },
+    {
+      "id": "tech-beg-10",
+      "question": "What is the purpose of a firewall?",
+      "options": ["Speed up the computer", "Protect against unauthorized access", "Store files", "Connect to printers"],
+      "correctAnswer": 1,
+      "explanation": "A firewall protects a computer or network from unauthorized access and cyber threats."
+    }
+  ]
+}

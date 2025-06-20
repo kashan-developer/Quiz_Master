@@ -1,0 +1,80 @@
+{
+  "id": "science-intermediate",
+  "title": "Science & Nature - Intermediate",
+  "category": "science",
+  "difficulty": "intermediate",
+  "timeLimit": 20,
+  "description": "Intermediate science concepts and natural phenomena",
+  "questions": [
+    {
+      "id": "sci-int-1",
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria are called the powerhouse of the cell because they produce ATP energy."
+    },
+    {
+      "id": "sci-int-2",
+      "question": "Which type of bond forms between a metal and a non-metal?",
+      "options": ["Covalent bond", "Ionic bond", "Metallic bond", "Hydrogen bond"],
+      "correctAnswer": 1,
+      "explanation": "Ionic bonds form between metals and non-metals through electron transfer."
+    },
+    {
+      "id": "sci-int-3",
+      "question": "What is the pH of pure water?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": 1,
+      "explanation": "Pure water has a pH of 7, which is neutral on the pH scale."
+    },
+    {
+      "id": "sci-int-4",
+      "question": "Which law states that energy cannot be created or destroyed?",
+      "options": ["Newton's First Law", "Law of Conservation of Energy", "Boyle's Law", "Ohm's Law"],
+      "correctAnswer": 1,
+      "explanation": "The Law of Conservation of Energy states that energy cannot be created or destroyed, only transformed."
+    },
+    {
+      "id": "sci-int-5",
+      "question": "What is the process by which plants release water vapor?",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Osmosis"],
+      "correctAnswer": 2,
+      "explanation": "Transpiration is the process by which water vapor is released from plant leaves."
+    },
+    {
+      "id": "sci-int-6",
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A", "B", "AB", "O"],
+      "correctAnswer": 3,
+      "explanation": "Type O negative blood is the universal donor because it can be given to people with any blood type."
+    },
+    {
+      "id": "sci-int-7",
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "200,000 km/s"],
+      "correctAnswer": 0,
+      "explanation": "The speed of light in a vacuum is approximately 300,000 kilometers per second."
+    },
+    {
+      "id": "sci-int-8",
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": ["Golgi apparatus", "Lysosome", "Ribosome", "Vacuole"],
+      "correctAnswer": 2,
+      "explanation": "Ribosomes are the cellular organelles responsible for protein synthesis."
+    },
+    {
+      "id": "sci-int-9",
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
+    },
+    {
+      "id": "sci-int-10",
+      "question": "Which scientist developed the theory of evolution by natural selection?",
+      "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Marie Curie"],
+      "correctAnswer": 1,
+      "explanation": "Charles Darwin developed the theory of evolution by natural selection."
+    }
+  ]
+}

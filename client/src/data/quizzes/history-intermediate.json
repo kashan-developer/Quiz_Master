@@ -1,0 +1,100 @@
+{
+  "id": "history-intermediate",
+  "title": "World History - Intermediate",
+  "category": "history",
+  "difficulty": "intermediate",
+  "timeLimit": 20,
+  "description": "Intermediate world history covering major periods and developments",
+  "questions": [
+    {
+      "id": "hist-int-1",
+      "question": "Which treaty ended World War I?",
+      "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Ghent", "Treaty of Portsmouth"],
+      "correctAnswer": 0,
+      "explanation": "The Treaty of Versailles was signed in 1919 and officially ended World War I."
+    },
+    {
+      "id": "hist-int-2",
+      "question": "What was the primary cause of the French Revolution?",
+      "options": ["Religious conflicts", "Economic inequality", "Foreign invasion", "Natural disasters"],
+      "correctAnswer": 1,
+      "explanation": "Economic inequality and financial crisis were primary causes of the French Revolution in 1789."
+    },
+    {
+      "id": "hist-int-3",
+      "question": "Which dynasty ruled China for the longest period?",
+      "options": ["Ming Dynasty", "Qing Dynasty", "Tang Dynasty", "Zhou Dynasty"],
+      "correctAnswer": 3,
+      "explanation": "The Zhou Dynasty ruled China for about 800 years (1046-256 BCE), the longest in Chinese history."
+    },
+    {
+      "id": "hist-int-4",
+      "question": "What was the main purpose of the Marshall Plan?",
+      "options": [
+        "Rebuild Europe after WWII",
+        "Establish NATO",
+        "Create the United Nations",
+        "Develop nuclear weapons"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Marshall Plan was a U.S. program to rebuild Western Europe after World War II."
+    },
+    {
+      "id": "hist-int-5",
+      "question": "Which empire was known as the 'Sick Man of Europe'?",
+      "options": ["Austrian Empire", "Russian Empire", "Ottoman Empire", "Spanish Empire"],
+      "correctAnswer": 2,
+      "explanation": "The Ottoman Empire was called the 'Sick Man of Europe' due to its decline in the 19th century."
+    },
+    {
+      "id": "hist-int-6",
+      "question": "What was the primary goal of the Crusades?",
+      "options": [
+        "Spread Christianity",
+        "Reclaim the Holy Land",
+        "Establish trade routes",
+        "Defeat the Byzantine Empire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The primary goal of the Crusades was to reclaim the Holy Land from Muslim control."
+    },
+    {
+      "id": "hist-int-7",
+      "question": "Which revolution preceded the French Revolution and influenced its ideas?",
+      "options": ["Russian Revolution", "American Revolution", "English Civil War", "Glorious Revolution"],
+      "correctAnswer": 1,
+      "explanation": "The American Revolution (1775-1783) influenced French revolutionary ideas about liberty and democracy."
+    },
+    {
+      "id": "hist-int-8",
+      "question": "What was the Renaissance?",
+      "options": [
+        "A religious reformation",
+        "A cultural and intellectual revival",
+        "A political revolution",
+        "An economic depression"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Renaissance was a cultural and intellectual revival in Europe from the 14th to 17th centuries."
+    },
+    {
+      "id": "hist-int-9",
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": ["Aztec", "Maya", "Inca", "Olmec"],
+      "correctAnswer": 2,
+      "explanation": "Machu Picchu was built by the Inca civilization in the 15th century in Peru."
+    },
+    {
+      "id": "hist-int-10",
+      "question": "What caused the split between the Roman Catholic and Eastern Orthodox churches?",
+      "options": [
+        "The Great Schism of 1054",
+        "The Protestant Reformation",
+        "The Council of Trent",
+        "The Investiture Controversy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Great Schism of 1054 formally split Christianity into Roman Catholic and Eastern Orthodox churches."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "math-expert",
+  "title": "Mathematics - Expert",
+  "category": "math",
+  "difficulty": "expert",
+  "timeLimit": 30,
+  "description": "Advanced mathematics including calculus, linear algebra, and mathematical analysis",
+  "questions": [
+    {
+      "id": "math-exp-1",
+      "question": "What is the derivative of ln(x²)?",
+      "options": ["1/x", "2/x", "2x", "x/2"],
+      "correctAnswer": 1,
+      "explanation": "d/dx[ln(x²)] = d/dx[2ln(x)] = 2 · (1/x) = 2/x"
+    },
+    {
+      "id": "math-exp-2",
+      "question": "What is the limit of (sin x)/x as x approaches 0?",
+      "options": ["0", "1", "∞", "undefined"],
+      "correctAnswer": 1,
+      "explanation": "This is a fundamental limit: lim(x→0) (sin x)/x = 1"
+    },
+    {
+      "id": "math-exp-3",
+      "question": "What is the determinant of the matrix [[2,3],[1,4]]?",
+      "options": ["5", "8", "11", "14"],
+      "correctAnswer": 0,
+      "explanation": "det([[2,3],[1,4]]) = (2)(4) - (3)(1) = 8 - 3 = 5"
+    },
+    {
+      "id": "math-exp-4",
+      "question": "What is ∫e^x dx?",
+      "options": ["e^x + C", "xe^x + C", "e^x/x + C", "x²e^x + C"],
+      "correctAnswer": 0,
+      "explanation": "The integral of e^x is e^x + C, since d/dx[e^x] = e^x"
+    },
+    {
+      "id": "math-exp-5",
+      "question": "What is the Taylor series expansion of e^x around x = 0?",
+      "options": [
+        "∑(x^n)/n!",
+        "∑((-1)^n)(x^(2n+1))/(2n+1)!",
+        "∑((-1)^n)(x^(2n))/(2n)!",
+        "∑(x^n)/n"
+      ],
+      "correctAnswer": 0,
+      "explanation": "e^x = ∑(n=0 to ∞) x^n/n! = 1 + x + x²/2! + x³/3! + ..."
+    },
+    {
+      "id": "math-exp-6",
+      "question": "What is the eigenvalue equation for a matrix A?",
+      "options": ["Av = λv", "A + v = λv", "Av = v + λ", "A - λ = v"],
+      "correctAnswer": 0,
+      "explanation": "The eigenvalue equation is Av = λv, where λ is the eigenvalue and v is the eigenvector."
+    },
+    {
+      "id": "math-exp-7",
+      "question": "What is the Fundamental Theorem of Calculus (Part 1)?",
+      "options": [
+        "d/dx ∫[a to x] f(t)dt = f(x)",
+        "∫[a to b] f'(x)dx = f(b) - f(a)",
+        "∫[a to b] f(x)dx = F(b) - F(a)",
+        "All of the above"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Part 1 of the FTC states that d/dx ∫[a to x] f(t)dt = f(x)"
+    },
+    {
+      "id": "math-exp-8",
+      "question": "What is the divergence of the vector field F = (x², y², z²)?",
+      "options": ["2x + 2y + 2z", "x² + y² + z²", "2(x + y + z)", "6xyz"],
+      "correctAnswer": 0,
+      "explanation": "∇·F = ∂(x²)/∂x + ∂(y²)/∂y + ∂(z²)/∂z = 2x + 2y + 2z"
+    },
+    {
+      "id": "math-exp-9",
+      "question": "What is the complex number i⁴?",
+      "options": ["-1", "0", "1", "i"],
+      "correctAnswer": 2,
+      "explanation": "i⁴ = (i²)² = (-1)² = 1"
+    },
+    {
+      "id": "math-exp-10",
+      "question": "What is the radius of convergence for the power series ∑(x^n)/n!?",
+      "options": ["1", "e", "π", "∞"],
+      "correctAnswer": 3,
+      "explanation": "The series ∑(x^n)/n! converges for all real x, so the radius of convergence is ∞."
+    }
+  ]
+}

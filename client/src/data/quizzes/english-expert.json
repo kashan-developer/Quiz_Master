@@ -1,0 +1,90 @@
+{
+  "id": "english-expert",
+  "title": "English Language - Expert",
+  "category": "english",
+  "difficulty": "expert",
+  "timeLimit": 25,
+  "description": "Advanced English grammar, literature, and linguistics",
+  "questions": [
+    {
+      "id": "eng-exp-1",
+      "question": "Which literary device is exemplified in 'The pen is mightier than the sword'?",
+      "options": ["synecdoche", "metonymy", "hyperbole", "oxymoron"],
+      "correctAnswer": 1,
+      "explanation": "Metonymy substitutes the name of something with something closely associated (pen for writing, sword for warfare)."
+    },
+    {
+      "id": "eng-exp-2",
+      "question": "What is the etymological origin of the word 'serendipity'?",
+      "options": ["Latin", "Greek", "Persian tale", "Sanskrit"],
+      "correctAnswer": 2,
+      "explanation": "'Serendipity' comes from 'The Three Princes of Serendip', a Persian fairy tale."
+    },
+    {
+      "id": "eng-exp-3",
+      "question": "In prosody, what is a 'caesura'?",
+      "options": ["a rhyme scheme", "a pause in a line of verse", "a stressed syllable", "a type of meter"],
+      "correctAnswer": 1,
+      "explanation": "A caesura is a deliberate pause or break in the middle of a line of poetry."
+    },
+    {
+      "id": "eng-exp-4",
+      "question": "Which sentence demonstrates correct use of the pluperfect subjunctive?",
+      "options": [
+        "If he would have come, we would have left",
+        "If he had come, we would have left",
+        "If he came, we would have left",
+        "If he has come, we would have left"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pluperfect subjunctive uses 'had' + past participle in the if-clause."
+    },
+    {
+      "id": "eng-exp-5",
+      "question": "What is the meaning of 'perspicacious'?",
+      "options": ["sweaty", "having keen insight", "stubborn", "transparent"],
+      "correctAnswer": 1,
+      "explanation": "'Perspicacious' means having keen insight or discernment; perceptive."
+    },
+    {
+      "id": "eng-exp-6",
+      "question": "In linguistics, what is 'semantic bleaching'?",
+      "options": [
+        "loss of meaning over time",
+        "gaining new meaning",
+        "translation errors",
+        "pronunciation changes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Semantic bleaching is the gradual loss of a word's original meaning over time."
+    },
+    {
+      "id": "eng-exp-7",
+      "question": "Which rhetorical device involves deliberate understatement?",
+      "options": ["hyperbole", "litotes", "chiasmus", "zeugma"],
+      "correctAnswer": 1,
+      "explanation": "Litotes is a form of understatement that affirms by denying the opposite."
+    },
+    {
+      "id": "eng-exp-8",
+      "question": "What type of clause is 'whoever finds the treasure' in 'Whoever finds the treasure keeps it'?",
+      "options": ["adverbial clause", "noun clause", "adjective clause", "independent clause"],
+      "correctAnswer": 1,
+      "explanation": "It's a noun clause functioning as the subject of the sentence."
+    },
+    {
+      "id": "eng-exp-9",
+      "question": "The Great Vowel Shift primarily affected which language?",
+      "options": ["Old English", "Middle English", "Early Modern English", "Modern English"],
+      "correctAnswer": 2,
+      "explanation": "The Great Vowel Shift occurred during the transition from Middle to Early Modern English (15th-18th centuries)."
+    },
+    {
+      "id": "eng-exp-10",
+      "question": "What is the technical term for a word that reads the same forwards and backwards?",
+      "options": ["anagram", "palindrome", "spoonerism", "portmanteau"],
+      "correctAnswer": 1,
+      "explanation": "A palindrome reads the same forwards and backwards, like 'racecar' or 'level'."
+    }
+  ]
+}

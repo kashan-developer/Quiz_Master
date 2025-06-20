@@ -1,0 +1,95 @@
+{
+  "id": "english-intermediate",
+  "title": "English Language - Intermediate",
+  "category": "english",
+  "difficulty": "intermediate",
+  "timeLimit": 20,
+  "description": "Challenge your intermediate English grammar and vocabulary",
+  "questions": [
+    {
+      "id": "eng-int-1",
+      "question": "Which sentence uses the subjunctive mood correctly?",
+      "options": [
+        "If I was you, I would go",
+        "If I were you, I would go",
+        "If I am you, I would go",
+        "If I will be you, I would go"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subjunctive mood uses 'were' for all persons in hypothetical situations."
+    },
+    {
+      "id": "eng-int-2",
+      "question": "What is the meaning of the idiom 'break a leg'?",
+      "options": ["to injure yourself", "good luck", "to dance", "to run fast"],
+      "correctAnswer": 1,
+      "explanation": "'Break a leg' is an idiom meaning 'good luck', often used in theater."
+    },
+    {
+      "id": "eng-int-3",
+      "question": "Choose the correct form: 'She has __ working here for five years.'",
+      "options": ["been", "being", "be", "was"],
+      "correctAnswer": 0,
+      "explanation": "Present perfect continuous uses 'has been' + verb-ing."
+    },
+    {
+      "id": "eng-int-4",
+      "question": "Which word is spelled correctly?",
+      "options": ["recieve", "receive", "recive", "receeve"],
+      "correctAnswer": 1,
+      "explanation": "Remember the rule: 'i' before 'e' except after 'c' - 'receive'."
+    },
+    {
+      "id": "eng-int-5",
+      "question": "What type of literary device is used in 'The stars danced in the sky'?",
+      "options": ["metaphor", "simile", "personification", "alliteration"],
+      "correctAnswer": 2,
+      "explanation": "Personification gives human qualities (dancing) to non-human things (stars)."
+    },
+    {
+      "id": "eng-int-6",
+      "question": "Choose the correct preposition: 'She's interested __ learning French.'",
+      "options": ["in", "on", "at", "for"],
+      "correctAnswer": 0,
+      "explanation": "'Interested in' is the correct prepositional phrase."
+    },
+    {
+      "id": "eng-int-7",
+      "question": "What is the past participle of 'write'?",
+      "options": ["wrote", "written", "writing", "writes"],
+      "correctAnswer": 1,
+      "explanation": "'Written' is the past participle of 'write' (write-wrote-written)."
+    },
+    {
+      "id": "eng-int-8",
+      "question": "Which sentence uses parallel structure?",
+      "options": [
+        "She likes reading, writing, and to paint",
+        "She likes reading, writing, and painting",
+        "She likes to read, writing, and paint",
+        "She likes read, write, and painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parallel structure uses the same grammatical form: reading, writing, and painting."
+    },
+    {
+      "id": "eng-int-9",
+      "question": "What does 'ubiquitous' mean?",
+      "options": ["rare", "everywhere", "ancient", "expensive"],
+      "correctAnswer": 1,
+      "explanation": "'Ubiquitous' means present everywhere or very common."
+    },
+    {
+      "id": "eng-int-10",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Between you and I, this is difficult",
+        "Between you and me, this is difficult",
+        "Between yourself and I, this is difficult",
+        "Between yourself and myself, this is difficult"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After prepositions like 'between', use object pronouns: 'you and me'."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "geography-expert",
+  "title": "Geography Challenge - Expert",
+  "category": "geography",
+  "difficulty": "expert",
+  "timeLimit": 25,
+  "description": "Advanced geography including geopolitics, physical geography, and specialized knowledge",
+  "questions": [
+    {
+      "id": "geo-exp-1",
+      "question": "Which projection preserves area but distorts shape?",
+      "options": ["Mercator", "Robinson", "Albers Equal-Area", "Winkel Tripel"],
+      "correctAnswer": 2,
+      "explanation": "Equal-area projections like Albers preserve area relationships but distort shapes."
+    },
+    {
+      "id": "geo-exp-2",
+      "question": "The concept of 'Mackinder's Heartland Theory' primarily concerns which region?",
+      "options": ["Central Asia", "Western Europe", "North America", "Sub-Saharan Africa"],
+      "correctAnswer": 0,
+      "explanation": "Mackinder's Heartland Theory identified Central Asia as the geographical pivot of history."
+    },
+    {
+      "id": "geo-exp-3",
+      "question": "What is the primary cause of the Coriolis effect?",
+      "options": ["Ocean currents", "Earth's rotation", "Solar radiation", "Atmospheric pressure"],
+      "correctAnswer": 1,
+      "explanation": "The Coriolis effect is caused by Earth's rotation, deflecting moving objects."
+    },
+    {
+      "id": "geo-exp-4",
+      "question": "Which type of plate boundary is associated with transform faults?",
+      "options": ["Convergent", "Divergent", "Conservative", "Destructive"],
+      "correctAnswer": 2,
+      "explanation": "Transform or conservative boundaries involve plates sliding past each other laterally."
+    },
+    {
+      "id": "geo-exp-5",
+      "question": "The 'demographic transition model' describes changes in which two rates?",
+      "options": ["Birth and death rates", "Migration rates", "Urbanization rates", "Literacy rates"],
+      "correctAnswer": 0,
+      "explanation": "The demographic transition model tracks changes in birth and death rates over time."
+    },
+    {
+      "id": "geo-exp-6",
+      "question": "Which ocean current is responsible for Western Europe's mild climate?",
+      "options": ["California Current", "Gulf Stream", "Kuroshio Current", "Canary Current"],
+      "correctAnswer": 1,
+      "explanation": "The Gulf Stream brings warm water northward, moderating Western Europe's climate."
+    },
+    {
+      "id": "geo-exp-7",
+      "question": "What is the term for the boundary between two air masses of different temperatures?",
+      "options": ["Isobar", "Isotherm", "Front", "Ridge"],
+      "correctAnswer": 2,
+      "explanation": "A front is the boundary zone between two air masses with different characteristics."
+    },
+    {
+      "id": "geo-exp-8",
+      "question": "Which concept describes the maximum population an environment can sustain?",
+      "options": ["Population density", "Carrying capacity", "Overpopulation", "Population pyramid"],
+      "correctAnswer": 1,
+      "explanation": "Carrying capacity is the maximum population size an environment can sustain indefinitely."
+    },
+    {
+      "id": "geo-exp-9",
+      "question": "The 'von Thünen model' primarily explains what geographical pattern?",
+      "options": ["Urban development", "Agricultural land use", "Industrial location", "Population distribution"],
+      "correctAnswer": 1,
+      "explanation": "The von Thünen model explains agricultural land use patterns around urban centers."
+    },
+    {
+      "id": "geo-exp-10",
+      "question": "Which type of weathering involves the expansion and contraction of rock due to temperature changes?",
+      "options": ["Chemical weathering", "Biological weathering", "Thermal weathering", "Hydrolysis"],
+      "correctAnswer": 2,
+      "explanation": "Thermal weathering (freeze-thaw) involves repeated expansion and contraction breaking down rock."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "science-beginner",
+  "title": "Science & Nature - Beginner",
+  "category": "science",
+  "difficulty": "beginner",
+  "timeLimit": 15,
+  "description": "Basic science concepts covering biology, chemistry, and physics",
+  "questions": [
+    {
+      "id": "sci-beg-1",
+      "question": "What do plants need to make their own food?",
+      "options": ["Water and soil", "Sunlight and carbon dioxide", "Oxygen and nitrogen", "Minerals and vitamins"],
+      "correctAnswer": 1,
+      "explanation": "Plants use sunlight and carbon dioxide for photosynthesis to make their own food."
+    },
+    {
+      "id": "sci-beg-2",
+      "question": "How many bones are in the adult human body?",
+      "options": ["106", "206", "306", "406"],
+      "correctAnswer": 1,
+      "explanation": "An adult human has 206 bones in their body."
+    },
+    {
+      "id": "sci-beg-3",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctAnswer": 0,
+      "explanation": "Water's chemical formula is H2O, representing two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "id": "sci-beg-4",
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "correctAnswer": 2,
+      "explanation": "Mercury is the closest planet to the Sun in our solar system."
+    },
+    {
+      "id": "sci-beg-5",
+      "question": "What gas do humans breathe in?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": 1,
+      "explanation": "Humans breathe in oxygen, which is essential for cellular respiration."
+    },
+    {
+      "id": "sci-beg-6",
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": 1,
+      "explanation": "The blue whale is the largest mammal and the largest animal ever known to have lived on Earth."
+    },
+    {
+      "id": "sci-beg-7",
+      "question": "At what temperature does water freeze?",
+      "options": ["0°C", "10°C", "32°C", "100°C"],
+      "correctAnswer": 0,
+      "explanation": "Water freezes at 0°C (32°F) under normal atmospheric pressure."
+    },
+    {
+      "id": "sci-beg-8",
+      "question": "What is the center of an atom called?",
+      "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+      "correctAnswer": 2,
+      "explanation": "The nucleus is the dense center of an atom, containing protons and neutrons."
+    },
+    {
+      "id": "sci-beg-9",
+      "question": "Which organ pumps blood through the human body?",
+      "options": ["Lungs", "Brain", "Heart", "Liver"],
+      "correctAnswer": 2,
+      "explanation": "The heart is a muscular organ that pumps blood throughout the body."
+    },
+    {
+      "id": "sci-beg-10",
+      "question": "What causes seasons on Earth?",
+      "options": ["Distance from the Sun", "Earth's tilt", "Solar flares", "Moon phases"],
+      "correctAnswer": 1,
+      "explanation": "Earth's seasons are caused by the planet's tilted axis as it orbits the Sun."
+    }
+  ]
+}

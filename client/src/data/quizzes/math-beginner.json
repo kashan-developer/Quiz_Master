@@ -1,0 +1,80 @@
+{
+  "id": "math-beginner",
+  "title": "Mathematics - Beginner",
+  "category": "math",
+  "difficulty": "beginner",
+  "timeLimit": 15,
+  "description": "Basic arithmetic and fundamental mathematical concepts",
+  "questions": [
+    {
+      "id": "math-beg-1",
+      "question": "What is 15 + 27?",
+      "options": ["40", "41", "42", "43"],
+      "correctAnswer": 2,
+      "explanation": "15 + 27 = 42"
+    },
+    {
+      "id": "math-beg-2",
+      "question": "What is 8 × 7?",
+      "options": ["54", "55", "56", "57"],
+      "correctAnswer": 2,
+      "explanation": "8 × 7 = 56"
+    },
+    {
+      "id": "math-beg-3",
+      "question": "What is 144 ÷ 12?",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": 1,
+      "explanation": "144 ÷ 12 = 12"
+    },
+    {
+      "id": "math-beg-4",
+      "question": "Which of these is an even number?",
+      "options": ["13", "17", "21", "24"],
+      "correctAnswer": 3,
+      "explanation": "24 is even because it's divisible by 2 (24 ÷ 2 = 12)."
+    },
+    {
+      "id": "math-beg-5",
+      "question": "What is 100 - 37?",
+      "options": ["61", "62", "63", "64"],
+      "correctAnswer": 2,
+      "explanation": "100 - 37 = 63"
+    },
+    {
+      "id": "math-beg-6",
+      "question": "How many sides does a triangle have?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 1,
+      "explanation": "A triangle has 3 sides by definition."
+    },
+    {
+      "id": "math-beg-7",
+      "question": "What is 1/2 as a decimal?",
+      "options": ["0.25", "0.5", "0.75", "1.0"],
+      "correctAnswer": 1,
+      "explanation": "1/2 = 0.5 as a decimal."
+    },
+    {
+      "id": "math-beg-8",
+      "question": "Which is the largest number?",
+      "options": ["0.8", "0.75", "0.9", "0.85"],
+      "correctAnswer": 2,
+      "explanation": "0.9 is the largest number among the choices."
+    },
+    {
+      "id": "math-beg-9",
+      "question": "What is 5²?",
+      "options": ["10", "15", "20", "25"],
+      "correctAnswer": 3,
+      "explanation": "5² = 5 × 5 = 25"
+    },
+    {
+      "id": "math-beg-10",
+      "question": "How many minutes are in an hour?",
+      "options": ["50", "60", "70", "80"],
+      "correctAnswer": 1,
+      "explanation": "There are 60 minutes in one hour."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "english-beginner",
+  "title": "English Language - Beginner",
+  "category": "english",
+  "difficulty": "beginner",
+  "timeLimit": 15,
+  "description": "Test your basic English grammar and vocabulary skills",
+  "questions": [
+    {
+      "id": "eng-beg-1",
+      "question": "What is the past tense of 'go'?",
+      "options": ["went", "goed", "gone", "going"],
+      "correctAnswer": 0,
+      "explanation": "The past tense of 'go' is 'went'."
+    },
+    {
+      "id": "eng-beg-2",
+      "question": "Which word is a noun?",
+      "options": ["run", "quickly", "book", "happy"],
+      "correctAnswer": 2,
+      "explanation": "A noun is a person, place, or thing. 'Book' is a thing."
+    },
+    {
+      "id": "eng-beg-3",
+      "question": "Choose the correct article: '__ apple'",
+      "options": ["a", "an", "the", "no article needed"],
+      "correctAnswer": 1,
+      "explanation": "'An' is used before words that start with a vowel sound."
+    },
+    {
+      "id": "eng-beg-4",
+      "question": "What is the plural of 'child'?",
+      "options": ["childs", "children", "childes", "child"],
+      "correctAnswer": 1,
+      "explanation": "'Children' is the irregular plural form of 'child'."
+    },
+    {
+      "id": "eng-beg-5",
+      "question": "Which sentence is correct?",
+      "options": ["She don't like pizza", "She doesn't like pizza", "She not like pizza", "She no like pizza"],
+      "correctAnswer": 1,
+      "explanation": "For third person singular, use 'doesn't' (does not)."
+    },
+    {
+      "id": "eng-beg-6",
+      "question": "What does 'big' mean?",
+      "options": ["small", "large", "red", "fast"],
+      "correctAnswer": 1,
+      "explanation": "'Big' means large in size."
+    },
+    {
+      "id": "eng-beg-7",
+      "question": "Choose the correct pronoun: 'John and __ went to the store.'",
+      "options": ["me", "I", "myself", "mine"],
+      "correctAnswer": 1,
+      "explanation": "'I' is the subject pronoun used when the pronoun is the subject of the sentence."
+    },
+    {
+      "id": "eng-beg-8",
+      "question": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "freezing"],
+      "correctAnswer": 1,
+      "explanation": "'Cold' is the direct opposite of 'hot'."
+    },
+    {
+      "id": "eng-beg-9",
+      "question": "Which word rhymes with 'cat'?",
+      "options": ["dog", "hat", "car", "cup"],
+      "correctAnswer": 1,
+      "explanation": "'Hat' rhymes with 'cat' - both end with the '-at' sound."
+    },
+    {
+      "id": "eng-beg-10",
+      "question": "Complete the sentence: 'I __ a student.'",
+      "options": ["is", "am", "are", "be"],
+      "correctAnswer": 1,
+      "explanation": "With 'I', we use 'am' - 'I am a student'."
+    }
+  ]
+}

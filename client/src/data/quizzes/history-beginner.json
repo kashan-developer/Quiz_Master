@@ -1,0 +1,80 @@
+{
+  "id": "history-beginner",
+  "title": "World History - Beginner",
+  "category": "history",
+  "difficulty": "beginner",
+  "timeLimit": 15,
+  "description": "Basic world history covering major events and civilizations",
+  "questions": [
+    {
+      "id": "hist-beg-1",
+      "question": "Who was the first President of the United States?",
+      "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "correctAnswer": 2,
+      "explanation": "George Washington was the first President of the United States, serving from 1789 to 1797."
+    },
+    {
+      "id": "hist-beg-2",
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correctAnswer": 1,
+      "explanation": "World War II ended in 1945 with the surrender of Japan in September."
+    },
+    {
+      "id": "hist-beg-3",
+      "question": "Which ancient wonder of the world was located in Egypt?",
+      "options": ["Hanging Gardens", "Colossus of Rhodes", "Great Pyramid of Giza", "Lighthouse of Alexandria"],
+      "correctAnswer": 2,
+      "explanation": "The Great Pyramid of Giza is the only ancient wonder still standing today."
+    },
+    {
+      "id": "hist-beg-4",
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+      "correctAnswer": 1,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa during the Italian Renaissance."
+    },
+    {
+      "id": "hist-beg-5",
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Greek Empire", "Roman Empire", "Persian Empire", "Egyptian Empire"],
+      "correctAnswer": 1,
+      "explanation": "Julius Caesar was a Roman general and dictator of the Roman Empire."
+    },
+    {
+      "id": "hist-beg-6",
+      "question": "In which year did the Berlin Wall fall?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "correctAnswer": 2,
+      "explanation": "The Berlin Wall fell on November 9, 1989, marking the beginning of German reunification."
+    },
+    {
+      "id": "hist-beg-7",
+      "question": "Which explorer is credited with discovering the Americas?",
+      "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Marco Polo"],
+      "correctAnswer": 1,
+      "explanation": "Christopher Columbus is credited with the European discovery of the Americas in 1492."
+    },
+    {
+      "id": "hist-beg-8",
+      "question": "What was the name of the ship on which Charles Darwin made his famous voyage?",
+      "options": ["HMS Victory", "HMS Beagle", "HMS Bounty", "HMS Endeavour"],
+      "correctAnswer": 1,
+      "explanation": "Charles Darwin sailed on HMS Beagle from 1831 to 1836, which inspired his theory of evolution."
+    },
+    {
+      "id": "hist-beg-9",
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["England", "Spain", "France", "Italy"],
+      "correctAnswer": 2,
+      "explanation": "France gifted the Statue of Liberty to the United States in 1886 as a symbol of freedom and democracy."
+    },
+    {
+      "id": "hist-beg-10",
+      "question": "Who was the famous queen of ancient Egypt known for her beauty?",
+      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Ankhesenamun"],
+      "correctAnswer": 1,
+      "explanation": "Cleopatra VII was the last pharaoh of ancient Egypt, known for her intelligence and beauty."
+    }
+  ]
+}
